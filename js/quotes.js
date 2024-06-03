@@ -17,7 +17,7 @@ const quotes = [
     author: "Helen Keller",
   },
   {
-    quote: "To Travel is to Live",
+    quote: "To Travel is to Live.",
     author: "Hans Christian Andersen",
   },
   {
@@ -29,7 +29,7 @@ const quotes = [
     author: "Mae West",
   },
   {
-    quote: "Never go on trips with anyone you do ntot love.",
+    quote: "Never go on trips with anyone you don't love.",
     author: "Hemmingway",
   },
   {
