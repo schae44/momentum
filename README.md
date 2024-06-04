@@ -11,4 +11,4 @@ Momentum is a personal website and offers functionalities such as a JS clock, a 
 - [x] Offline Support
 
 ## Try it out
-
+[https://schae44.github.io/momentum/](https://schae44.github.io/momentum/)
